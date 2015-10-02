@@ -28,7 +28,7 @@
     "coveralls": "${npm_package_scripts_coverage} && istanbul-coveralls"
   },
   "dependencies": {
-    "clean-css": "^3.3.3",
+    "clean-css": "^3.4.0",
     "gulp-util": "^3.0.5",
     "object-assign": "^4.0.1",
     "readable-stream": "^2.0.0",
